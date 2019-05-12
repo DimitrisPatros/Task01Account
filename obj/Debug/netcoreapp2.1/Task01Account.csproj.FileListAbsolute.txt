@@ -1,0 +1,11 @@
+C:\Users\patro\source\repos\Task01Account\Task01Account\obj\Debug\netcoreapp2.1\Task01Account.csprojAssemblyReference.cache
+C:\Users\patro\source\repos\Task01Account\Task01Account\obj\Debug\netcoreapp2.1\Task01Account.csproj.CoreCompileInputs.cache
+C:\Users\patro\source\repos\Task01Account\Task01Account\obj\Debug\netcoreapp2.1\Task01Account.AssemblyInfoInputs.cache
+C:\Users\patro\source\repos\Task01Account\Task01Account\obj\Debug\netcoreapp2.1\Task01Account.AssemblyInfo.cs
+C:\Users\patro\source\repos\Task01Account\Task01Account\bin\Debug\netcoreapp2.1\Task01Account.deps.json
+C:\Users\patro\source\repos\Task01Account\Task01Account\bin\Debug\netcoreapp2.1\Task01Account.runtimeconfig.json
+C:\Users\patro\source\repos\Task01Account\Task01Account\bin\Debug\netcoreapp2.1\Task01Account.runtimeconfig.dev.json
+C:\Users\patro\source\repos\Task01Account\Task01Account\bin\Debug\netcoreapp2.1\Task01Account.dll
+C:\Users\patro\source\repos\Task01Account\Task01Account\bin\Debug\netcoreapp2.1\Task01Account.pdb
+C:\Users\patro\source\repos\Task01Account\Task01Account\obj\Debug\netcoreapp2.1\Task01Account.dll
+C:\Users\patro\source\repos\Task01Account\Task01Account\obj\Debug\netcoreapp2.1\Task01Account.pdb
